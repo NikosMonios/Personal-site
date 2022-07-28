@@ -1,0 +1,137 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align:center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-bottom:
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", serif;
+  font-size: 5.625rem;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #395B64;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 90px auto 90px auto;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #EAF6F6;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 10px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.code-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.brain-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+
+.cv {
+  width: 50%;
+  margin: 150px auto 160px auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+.cv-img {
+  float: none;
+  position: absolute;
+  right: 690px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.project-title {
+  font-weight: bold;
+  text-align: left;
+  margin-left: 20px;
+  padding-top: 30px;
+}
+
+.abstract {
+  text-align: justify;
+  margin-left: 40px;
+  width: 90%;
+}
+
+.hr-projects {
+  margin: 50px auto 50px auto;
+}
+
+.a-projects {
+  padding-bottom: 50px;
+}
